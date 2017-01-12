@@ -21,4 +21,4 @@ module.exports = {
         css: [__dirname + "/wi.core.menu.style.css"],
         js: [__dirname + "/wi.core.menu.events.js"]
     }
-}
+};
