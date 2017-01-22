@@ -12,13 +12,4 @@
 
 "use strict";
 
-module.exports = {    
-    /**
-     * List module assets
-     * @type object
-     */
-    assets: {
-        css: [__dirname + "/wi.core.menu.style.css"],
-        js: [__dirname + "/wi.core.menu.events.js"]
-    }
-};
+module.exports = {};
